@@ -23,11 +23,11 @@
   <ExtraParams/>
   <PostArgs/>
   <CPUset/>
-  <DateInstalled>1653633502</DateInstalled>
+  <DateInstalled>1653634349</DateInstalled>
   <DonateText/>
   <DonateLink/>
   <Requires/>
-  <Config Name="Config" Target="/vertex" Default="" Mode="rw" Description="&#x914D;&#x7F6E;&#x6587;&#x4EF6;&#x76EE;&#x5F55;" Type="Path" Display="always" Required="true" Mask="false">/mnt/user/appdata/vertex/</Config>
+  <Config Name="Config" Target="/vertex" Default="" Mode="rw" Description="&#x914D;&#x7F6E;&#x6587;&#x4EF6;&#x76EE;&#x5F55;" Type="Path" Display="always" Required="true" Mask="false"/>
   <Config Name="PORT" Target="3000" Default="" Mode="tcp" Description="&#x8BBF;&#x95EE;&#x7AEF;&#x53E3;" Type="Port" Display="always" Required="true" Mask="false">3000</Config>
   <Config Name="PORT" Target="PORT" Default="3000" Mode="" Description="Vertex &#x8FD0;&#x884C;&#x65F6;&#x5BB9;&#x5668;&#x5185;&#x7684;&#x670D;&#x52A1;&#x7AEF;&#x53E3;" Type="Variable" Display="always" Required="false" Mask="false">3000</Config>
   <Config Name="TZ" Target="TZ" Default="Asia/Shanghai" Mode="" Description="&#x65F6;&#x533A;" Type="Variable" Display="always" Required="false" Mask="false">Asia/Shanghai</Config>

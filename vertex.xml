@@ -21,7 +21,7 @@
 &#x9ED8;&#x8BA4;&#x7528;&#x6237;&#x540D;&#x4E3A; admin, &#x521D;&#x59CB;&#x5BC6;&#x7801;&#x5728; vertex/data/password &#x6587;&#x4EF6;&#x5185;, &#x76F4;&#x63A5;&#x590D;&#x5236;&#x5373;&#x53EF;&#xD;
 &#x5E2E;&#x52A9; Wiki: https://wiki.vertex.icu/&#xD;
 &#x5F00;&#x6E90;&#x5730;&#x5740;: https://github.com/l-s-w-l/Vertex</Overview>
-  <Category>HomeAutomation: Tools:Utilities</Category>
+  <Category>Tools: HomeAutomation: </Category>
   <WebUI>http://[IP]:[PORT:3000]/</WebUI>
   <TemplateURL>https://raw.githubusercontent.com/l-s-w-l/docker-template/master/vertex.xml</TemplateURL>
   <Icon>https://pic.lswl.in/images/2022/01/26/3d128357f09b4d44c40d5596506d1d1f.png</Icon>

@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <Container version="2">
-  <Name>vertex</Name>
+  <Name>Vertex</Name>
   <Repository>lswl/vertex:stable</Repository>
   <Registry>https://hub.docker.com/r/lswl/vertex</Registry>
   <Network>bridge</Network>

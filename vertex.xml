@@ -24,7 +24,7 @@
   <Category>Tools: HomeAutomation: </Category>
   <WebUI>http://[IP]:[PORT:3000]/</WebUI>
   <TemplateURL>https://raw.githubusercontent.com/l-s-w-l/docker-template/master/vertex.xml</TemplateURL>
-  <Icon>https://pic.lswl.in/images/2022/01/26/3d128357f09b4d44c40d5596506d1d1f.png</Icon>
+  <Icon>https://pic.lswl.in/images/2022/07/10/c24666bee7328e7581411cb44df66443.png</Icon>
   <ExtraParams/>
   <PostArgs/>
   <CPUset/>
